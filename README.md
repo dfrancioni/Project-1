@@ -8,7 +8,7 @@ From the plot, it can be observed that there is a pretty clear increase in death
 
 ![image](https://user-images.githubusercontent.com/112734081/197309415-8d35cc3c-272e-425f-bad1-5154c7dde99b.png)
 
-From this plot, it can be seen that the majority of the data can be observed to follow a linear trend with increasing population density.
+Et can be seen that the majority of the data can be observed to follow a linear trend with increasing population density.
 # Gini Index vs Death Rates in PA
 ![image](https://user-images.githubusercontent.com/112734081/197309584-8008816d-745b-4060-b1b1-5e168fad9f60.png)
 
