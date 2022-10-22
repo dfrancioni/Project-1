@@ -4,4 +4,5 @@ I plan to analyze how the population density and GINI index of each county of Pe
 # Population Density vs Death Rates in PA
 ![image](https://user-images.githubusercontent.com/112734081/197309297-1194f095-8845-4ae6-b6de-ef50fe07238e.png)
 From the plot, it can be observed that there is a pretty clear increase in death rate as the population density increases.
+
 ![image](https://user-images.githubusercontent.com/112734081/197309415-8d35cc3c-272e-425f-bad1-5154c7dde99b.png)
