@@ -17,4 +17,4 @@ From this plot, there seems to be a slight correlation between increasing gini i
 # Gini Index vs Population Density
 ![image](https://user-images.githubusercontent.com/112734081/197309718-716f604d-d363-45ca-b977-52d5b2214b67.png)
 
-When looking at the two variable studied, gini index and population density, it can be observed that the data for the most part seems independent. If anything there is a very slight dependance which should not impact my analysis.
+When looking at the two variables studied, gini index and population density, it can be observed that the data for the most part seems independent. If anything there is a very slight dependance which should not impact my analysis.
