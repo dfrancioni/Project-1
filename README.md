@@ -20,7 +20,7 @@ From this plot, there seems to be a slight correlation between increasing gini i
 Hypothesis: Are people in counties with higher population densities in PA more likely to have experienced fatal outcomes?
 Null hypothesis: do people in higher and lower population densities have the same number of fatal outcomes?
 
-A two-sample t-test was used to analyze the null hypothesis by splitting the data at the average population density into two section – higher population density (above average) and low population density (below average). Plotted is the null distribution obtained from a random population with the same mean and standard deviation as the high and low density populations with n = 5.
+A two-sample t-test was used to analyze the null hypothesis by splitting the data at the average population density into two section – higher population density (above average) and low population density (below average) and taking the corresponding covid deaths from each of those sections. Plotted is the null distribution obtained from a random population with the same mean and standard deviation as the high and low density populations with n = 5.
 
 ![image](https://user-images.githubusercontent.com/112734081/197684219-6f94aae1-1b13-4d9a-8199-8180f60a0e2a.png)
 
@@ -31,7 +31,7 @@ The value of t from a two sided t-test comparing death numbers corresponding to 
 # Population Density 2 sample t-test analysis
 Hypothesis: Are people in counties with higher income inequality (gini index) in PA more likely to have experienced fatal outcomes?
 
-A two-sample t-test was used to analyze the null hypothesis by splitting the data at the average gini index into two section – higher gini index (above average) and low gini index (below average). Plotted is the null distribution obtained from a random population with the same mean and standard deviation as the high and low gini index with n = 5.
+A two-sample t-test was used to analyze the null hypothesis by splitting the data at the average gini index into two section – higher gini index (above average) and low gini index (below average) and taking the corresponding covid deaths from each of those sections. Plotted is the null distribution obtained from a random population with the same mean and standard deviation as the high and low gini index with n = 5.
 
 ![image](https://user-images.githubusercontent.com/112734081/197685072-2c04f02c-3329-4054-9501-f590094a8a48.png)
 
