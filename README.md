@@ -42,7 +42,7 @@ The value of t from a two sided t-test comparing death numbers corresponding to 
 # Gini Index vs Population Density
 ![image](https://user-images.githubusercontent.com/112734081/197607960-14f928ad-6e7f-4e7d-982d-c5a7b0fc4a62.png)
 
-When looking at the two variables studied, gini index and population density, it can be observed that the data for the most part seems independent. If anything there is a very slight dependance which should not impact my analysis.
+When looking at the two variables studied, gini index and population density, it can be observed that the data seems slighly dependent.
 
 # Linear Regression Analysis
 Hypothesis: Were people in less densely populated counties with lower income inequality (Gini Index) in PA less likely to have experienced fatal outcomes?
