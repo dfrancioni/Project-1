@@ -45,6 +45,6 @@ The value of t from a two sided t-test comparing death numbers corresponding to 
 When looking at the two variables studied, gini index and population density, it can be observed that the data seems slighly dependent.
 
 # Linear Regression Analysis
-Hypothesis: Were people in less densely populated counties with lower income inequality (Gini Index) in PA less likely to have experienced fatal outcomes?
+Hypothesis: Were people in more densely populated counties with higher income inequality (Gini Index) in PA more likely to have experienced fatal outcomes?
 
 To analyze this dependence effect further, I have performed two linear regression analyses between population density and gini index, one with no interaction effects, and another with interaction effects between the two. The resulting R^2 value for linear regression with no interactions is 0.682, while the R^2 value for linear regression with interactions is 0.840. Including interactions in the analysis gives a much better fit, which confirms that there is a dependency between gini index and population density.
